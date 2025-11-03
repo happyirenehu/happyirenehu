@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @happyirenehu
-- 👀 I’m interested in bouldering and music(freestyle rap and songwriting, classical piano) 
-- 🌱 I’m currently learning how to code JS
+- 👀 I’m interested in rock climbing and music(freestyle rap and songwriting, classical piano) 
+- 🌱 I’m currently learning how to code 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
