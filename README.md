@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @happyirenehu
-- # Hi, I'm [您的名字] 👋
 
 ### 🧗 "Engineering is a Crux: I solve it with precision, not brute force."
 
