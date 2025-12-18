@@ -1,5 +1,13 @@
 - 👋 Hi, I’m @happyirenehu
+- 
+🏆 Engineering Authority & Technical Impact
+[63,242+ Views] - Single Guide on C++ I/O Logic (Ranking #1 on Google Search)
 
+[21,282+ Views] - Mastering C++ Constructors & Class Architecture
+
+[Top 3 Ranked] - 2022 iThome Ironman Challenge (Technical Engagement)
+
+"I don't just build systems; I bridge the gap between complex logic and human understanding. My tutorials are trusted by over 100,000 developers for their logical clarity and No-Nonsense implementation."
 ### 🧗 "Engineering is a Crux: I solve it with precision, not brute force."
 
 I am a **Backend Developer** and a **Relentless Self-Learner**. My path into tech wasn't a straight line—it was a technical climb. From self-funding my Computer Science degree to mastering complex systems independently, I am built to solve what others find "too difficult."
