@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @happyirenehu
 - 🏆 **Engineering Authority & Technical Impact**
   - **[63,242+ Views]** - #1 Google Ranking C++ Guide (Sourced by **Google AI Overviews**)
-  - **[21,282+ Views]** - Mastering C++ Constructors & Automated Architecture
-  - **[11,802+ Views]** - OOP Class Systems & High-Efficiency Modeling
-  - **[10,725+ Views]** - Data Precision: ASCII & I/O Validation Logic
   - **[Total 130k+ Reach]** - Top 3 Ranked Technical Series, 14th iThome Ironman Challenge
 
 > "I don't just build systems; I bridge the gap between complex logic and human understanding. My work is trusted by over **130,000 developers** for its logical clarity and industrial-grade precision."
