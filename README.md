@@ -35,7 +35,6 @@
 ## 📈 My Philosophy
 > "I don't just fix bugs; I hunt them down. I might take my time to ensure **100% precision**, but I will never let go of the rope until I reach the top."
 
-- 📫 **Reach me at:** [REDACTED]
 - 💼 **Available for:** Global Remote Backend Projects | Specialized Django Development
 
 ---
